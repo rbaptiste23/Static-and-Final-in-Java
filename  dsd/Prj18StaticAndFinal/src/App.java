@@ -17,7 +17,7 @@ class Thing {
 	public Thing() {
 		id = count;
 		count++;
-		System.out.println("Thing one.");
+		System.out.println("Thing one..");
 		
 	}
 	
